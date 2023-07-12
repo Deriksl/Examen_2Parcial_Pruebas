@@ -1,5 +1,0 @@
-﻿  LQueue.cpp
-  Triangle.cpp
-  Generando código...
-MSVCRTD.lib(exe_main.obj) : error LNK2019: símbolo externo main sin resolver al que se hace referencia en la función "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
-C:\Users\Derik\Downloads\Examen_2Parcial\x64\Debug\Examen_2Parcial.exe : fatal error LNK1120: 1 externos sin resolver
